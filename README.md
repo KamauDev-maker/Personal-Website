@@ -14,7 +14,7 @@ My idea was to have a vey simple and responsive but stunning website without a l
 
 
 ## Link to Live Site
-https://kamaudev-maker.github.io/Personal-Website/
+https://aquamarine-basbousa-7844f6.netlify.app/
 
 ## License
 MIT © [Oscar Kamau]()
