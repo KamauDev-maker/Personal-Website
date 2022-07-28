@@ -170,6 +170,11 @@ footer {
         display: flex;
         flex-wrap: wrap;
     }
+
+    .sub-section {
+        display: flex;
+       flex-wrap: wrap;
+    }
 }
 
 .project-image {
