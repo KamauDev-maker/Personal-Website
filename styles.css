@@ -194,13 +194,15 @@ hr {
 
 .project-link {
     text-decoration: none;
-    color: #ef744b;
+    color: darkblue;
 }
 
 a {
     text-decoration: none;
     color: white;
 }
+
+
 
 .hamburger {
     display: none;
@@ -246,5 +248,7 @@ a {
         display: none;
     }
 }
+
+
 
 
